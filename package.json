@@ -1,0 +1,19 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "Social Network for devs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/monizj/devconnector.git"
+  },
+  "author": "JDM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monizj/devconnector/issues"
+  },
+  "homepage": "https://github.com/monizj/devconnector#readme"
+}
